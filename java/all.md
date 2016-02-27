@@ -19,7 +19,7 @@
 * 1st code
 
 ## Homework
-* Review OR Practice **all** of ++Self-Review Exercises++ and ++Exercises++ in Chapter 1 and 2.
+* Review OR Practice **all** of *Self-Review Exercises* and *Exercises* in Chapter 1 and 2.
 
 ## File to share:
 * JDK, JDK DOC
