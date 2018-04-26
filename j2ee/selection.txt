@@ -1,0 +1,13 @@
+* B15041339 key: B
+The major difference between servlet and CGI is?
+A) Servlets executes slower compared to CGI
+B) Servlets are thread based and CGI is process based
+C) Servlet has no platform specific API, where as CGI has
+D) All of the above
+
+* B15041340  key: B
+Which about WAR files are true?
+A) WAR files must be located in the web application library directory.
+B) WAR files must contain the web application deployment descriptor.
+C) WAR files must be created by using archive tools designed specifically for that purpose.
+D) The web container must serve the content of any META-INF directory located in a WAR file.
